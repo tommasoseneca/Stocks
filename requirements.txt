@@ -1,6 +1,6 @@
 deta==1.1.0
 keras==2.9.0
-matplotlib==3.2.2
+matplotlib==3.6.2
 numpy==1.23.5
 pandas==1.4.4
 pandas_datareader==0.10.0
