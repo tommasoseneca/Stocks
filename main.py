@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
+import tensorflow
 from keras.layers import Dense, LSTM
 from keras.models import Sequential
 from datetime import datetime
